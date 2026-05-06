@@ -1,9 +1,0 @@
-Ref: back.jpg
-Test: back_align.jpg
-
-Before ECC: nonzero=1729173, mean_diff=45.594282
-After ECC : nonzero=704938, mean_diff=17.609597
-ECC cc    : 0.90214034
-Warp matrix:
-[[ 1.0001777e+00  1.3434920e-02 -3.7720898e+01]
- [-1.5010748e-02  9.9824417e-01  2.1699781e+01]]
