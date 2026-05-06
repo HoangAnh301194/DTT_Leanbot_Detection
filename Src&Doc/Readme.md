@@ -1,6 +1,4 @@
-# Cập nhật báo cáo ngày 05/05/2026
-
-## A. Công việc đã làm
+## A. Công việc đã thực hiện
 - Báo cáo rõ ràng và tạo bảng thông tin dataset cho training :
     - Model nền tảng sử dụng.
     - Số lượng session
